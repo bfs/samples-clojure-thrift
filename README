@@ -1,0 +1,9 @@
+# samples-clojure-thrift
+
+Sample project serializing and deserializing Thrift/TBase Objects in Clojure
+
+## License
+
+Copyright (C) 2011 Factual Inc. 
+
+Distributed under the Eclipse Public License, the same as Clojure.
