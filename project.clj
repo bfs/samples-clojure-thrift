@@ -4,7 +4,7 @@
                  "conjars" "http://conjars.org/repo"
                  "sun"  "http://download.java.net/maven/2"	
                 }
-  :description "Clojure-based Evented Factual Datastore API Server"
+  :description "Sample project serializing and deserializing Thrift/TBase"
   :dependencies [[org.clojure/clojure "1.2.0"]
                  [org.clojure/clojure-contrib "1.2.0"]
 		 [org.apache.thrift/libthrift "0.6.1"]
